@@ -1,1 +1,1 @@
-[Deployment](file:///C:/D/Katia/my%20lessons/rsSchool/week%232/landing_page/main.html)
+[Deployment](https://katrinasnx.github.io/rsschool-landing-page/main.html)
