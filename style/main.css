@@ -162,7 +162,8 @@ img .cup-icon {
     font-weight: 600;
     font-size: 16px;
     border: none;
-
+    padding-bottom: 10px;
+    padding-top: 10px;
     line-height: 1.5;
     text-align: center;
     color: #403f3d;
@@ -357,7 +358,7 @@ height: 186px;
 }
 
 
-.footer-right h4{
+.footer-right h3{
     font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 24px;

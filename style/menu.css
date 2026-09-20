@@ -200,7 +200,7 @@ border: #81817f solid 1px;
     transition: ease 0.4s;
 }
 
-.item h3{
+.item h3, .item h2{
     font-family: "Inter", sans-serif;
 font-weight: 600;
 font-size: 24px;
@@ -268,7 +268,7 @@ footer{
 }
 
 
-.footer-right h4 {
+.footer-right h3 {
     font-family: "Inter", sans-serif;
     font-weight: 600;
     font-size: 24px;
